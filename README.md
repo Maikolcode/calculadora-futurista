@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+<h1>Bienvenido a La Calculadora Del Futuro</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se realizo con el objetivo de construir una calculadora con sus funciones principales, manteniendo el estilo de las calculadoras comunes. :1234:
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+<h2>Comenzamos! :triangular_flag_on_post:</h2>
 
-### `npm start`
+Para lograr una correcta implementación correcta de este proyecto antes debemos instarlar <b>Node Js</b></br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Conoce mas sobre la instalación de Node Js <a href="https://nodejs.org/es/download/" target="_blank">aqui</a> :heavy_check_mark:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="public/images/nodejs.png" height="100" widht="100"/>
 
-### `npm test`
+<hr>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>Arranque local :bulb:</h2>
 
-### `npm run build`
+Para iniciar nuestro proyecto de forma local debemos abrir el <b>CMD</b> o la <b>TERMINAL</b> de visual studio code, accediendo a la ruta donde queremos que este ubicado el proyecto ejecutando el siguiente comando. :wrench:</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+    > git clone https://github.com/Maikolcode/Calculadora-Del-Futuro.git
+    > cd Calculadora-Del-Futuro
+    > npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+En caso de querer detener la ejecución del proyecto debemos estar en la <b>CMD</b>, seguido de esto dar <b>Ctrl + C</b> para terminar el trabajo por lotes y hacer clic en en la <b>S</b>. :wrench:</br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr>
 
-### `npm run eject`
+<h2>Despliegue y pruebas :rocket:</h2>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Para desplegar y probar nuestra aplicación en un entorno web publico podemos utilizar <b>Netlify</b>, el cual nos ofrece un servicio de Hosting gratuito, donde podremos realizar los test. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img src="public/images/netlify.png" height="100" widht="100"/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+En cuanto al proceso del hosting se hace directamente en  la pagina oficial de Netlify, mas información <a href="https://www.netlify.com/" target="_blank">aqui</a>:heavy_check_mark:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<hr>
 
-## Learn More
+<h2>Elaboración :hammer:</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+En cuanto a la programación de la calculadora se utilizo el framework <b>React</b> acompañado de:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- HTML :sparkler:
+- CSS :balloon:
+- JS :crystal_ball:
+- MARERIAL-IU - Framework para los estilos de la calculadora :hotsprings:
+ 
+Para la codificación, el IDE preferido, <b>Visual Studio Code</b>. :star:
 
-### Code Splitting
+<hr>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<h2>Vista previa de la calculadora :eyes:</h2>
 
-### Analyzing the Bundle Size
+<img src="public/images/Calculadora.png" style="widht: 100%; height: 420px;"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<h2>Autores :pushpin:</h2>
 
-### Making a Progressive Web App
+Para la elaboración del proyecto fueron influyentes:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Michael Parra -> _Estructuración e implementación_ 
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- José Sarta - _Guía_ - <a href="https://github.com/josarta">josarta<a>
